@@ -1,0 +1,68 @@
+[13:06:24] [Client thread/INFO] [JMLogger] JourneyMap log initialized.
+[13:06:24] [Client thread/INFO] [JourneymapClient] initialize ENTER
+[13:06:25] [Client thread/INFO] [?] Version: JourneyMap 1.12.2-5.5.9, built with Forge 14.23.5.2768
+Forge: 14.23.5.2847
+Environment: os.name, os.arch, java.version, user.country, user.language=null, game language=ru_ru, locale=ru_ru
+Features: 
+	RadarPlayers : singleplayer = true , multiplayer = true
+	RadarAnimals : singleplayer = true , multiplayer = true
+	RadarMobs : singleplayer = true , multiplayer = true
+	RadarVillagers : singleplayer = true , multiplayer = true
+	MapTopo : singleplayer = true , multiplayer = true
+	MapSurface : singleplayer = true , multiplayer = true
+	MapCaves : singleplayer = true , multiplayer = true
+MiniMapProperties{state=Valid, file=journeymap.minimap.config, configVersion=5.5.9, zoomLevel=0, showPlayers=true, frameAlpha=100, compassFontScale=2, terrainAlpha=100, showEntityNames=true, enabled=true, showPlayerHeading=true, showVillagers=true, info2Label=Игровое время, sizePercent=30, showDayNight=true, info3Label=Кординаты, showMobs=true, showPets=true, preferredMapType=day, showCompass=true, mobDisplay=Маленький точки, showReticle=true, orientation=Север, systemTimeRealFormat=HH:mm:ss, shape=Окружность, showSelf=true, info4Label=Биом, locationFormat=xzyv, playerDisplay=Маленький точки, showGrid=false, reticleOrientation=Компас, gameTimeRealFormat=HH:mm:ss, showWaypoints=true, showCaves=false, showAnimals=false, showMobHeading=true, showWaypointLabels=true, locationFormatVerbose=true, position=Вверху справа, info1Label=Пустой, fontScale=2}
+MiniMapProperties{state=Valid, file=journeymap.minimap2.config, configVersion=5.5.9, zoomLevel=0, showPlayers=true, frameAlpha=100, compassFontScale=2, terrainAlpha=100, showEntityNames=true, enabled=true, showPlayerHeading=true, showVillagers=true, info2Label=Игровое время, sizePercent=30, showDayNight=true, info3Label=Кординаты, showMobs=true, showPets=true, preferredMapType=day, showCompass=true, mobDisplay=Маленький точки, showReticle=true, orientation=Север, systemTimeRealFormat=HH:mm:ss, shape=Прямоугольник, showSelf=true, info4Label=Биом, locationFormat=xzyv, playerDisplay=Маленький точки, showGrid=false, reticleOrientation=Компас, gameTimeRealFormat=HH:mm:ss, showWaypoints=true, showCaves=false, showAnimals=true, showMobHeading=true, showWaypointLabels=true, locationFormatVerbose=true, position=Вверху справа, info1Label=Пустой, fontScale=2}
+FullMapProperties{state=Valid, file=journeymap.fullmap.config, configVersion=5.5.9, mobDisplay=Маленький точки, zoomLevel=1, showPlayers=true, showSelf=true, locationFormat=xzyv, playerDisplay=Маленький точки, showGrid=false, showEntityNames=true, showPlayerHeading=true, showVillagers=true, showWaypoints=true, showCaves=true, showAnimals=true, showMobHeading=true, showKeys=true, showWaypointLabels=true, locationFormatVerbose=true, showMobs=true, showPets=true, fontScale=2, preferredMapType=day}
+WaypointProperties{state=Valid, file=journeymap.waypoint.config, configVersion=5.5.9, autoRemoveDeathpointDistance=2, createDeathpoints=true, showName=true, dateFormat=MM-dd-yyyy, autoRemoveDeathpoints=false, maxDistance=0, autoHideLabel=true, teleportCommand=/tp {name} {x} {y} {z}, showStaticBeam=false, minDistance=4, timeFormat=HH:mm:ss, boldLabel=false, textureSmall=true, showDeathpointlabel=true, showDistance=true, showRotatingBeam=false, fontScale=2, showTexture=true, managerEnabled=true, beaconEnabled=true}
+WebMapProperties{state=Valid, file=journeymap.webmap.config, configVersion=5.5.9, zoomLevel=0, showWaypoints=true, showCaves=true, showSelf=true, port=8080, showGrid=true, showEntityNames=true, enabled=false, googleMapApiDomain=.com, preferredMapType=day}
+CoreProperties{state=Valid, file=journeymap.core.config, configVersion=5.5.9, verboseColorPalette=false, maxPlayersData=32, mapSurfaceAboveCaves=true, optionsManagerViewed=5.5.9, announceMod=true, colorPassive=#bbbbbb, renderOverlayEventTypeName=ALL, mapBlendWater=false, renderDistanceSurfaceMax=16, radarVerticalDistance=16, mapBlendGrass=true, recordCacheStats=false, hideSneakingEntities=true, revealShape=Окружность, alwaysMapSurface=false, colorVillager=#88e188, mapPlants=false, colorPet=#0077ff, radarLateralDistance=64, mapBathymetry=false, mapCrops=true, maxMobsData=32, mapPlantShadows=false, alwaysMapCaves=false, checkUpdates=true, browserPoll=2000, mapBlendFoliage=true, mappingEnabled=true, colorPlayer=#ffffff, tileHighDisplayQuality=true, cacheVillagersData=2200, logLevel=INFO, maxVillagersData=32, maxAnimalsData=32, mapTransparency=true, tileRenderType=1, caveIgnoreGlass=true, mapTopography=true, renderDistanceCaveMax=16, mapAntialiasing=true, colorSelf=#0000ff, cachePlayersData=2000, cacheMobsData=3000, cachePlayerData=1000, splashViewed=5.5.9, colorHostile=#ff0000, cacheAnimalsData=3100, themeName=Purist, mapCaveLighting=true, renderDelay=2, renderOverlayPreEvent=true, autoMapPoll=2000}
+[13:06:25] [Client thread/INFO] [ClientAPI] [ClientAPI] built with JourneyMap API 1.4
+[13:06:25] [Client thread/INFO] [PluginHelper] Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
+[13:06:25] [Client thread/INFO] [JourneymapClient] initialize EXIT, elapsed count 0 avg ?ms
+[13:06:29] [Client thread/DEBUG] [JourneymapClient] postInitialize ENTER
+[13:06:29] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.KeyEventHandler
+[13:06:29] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.ChatEventHandler
+[13:06:29] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.StateTickHandler
+[13:06:29] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.WorldEventHandler
+[13:06:29] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.WaypointBeaconHandler
+[13:06:29] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.TextureAtlasHandler
+[13:06:29] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.MiniMapOverlayHandler
+[13:06:29] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.PlayerConnectHandler
+[13:06:29] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.world.ChunkMonitor
+[13:06:29] [Client thread/ERROR] [FileHandler] Couldn't locate icons for Default: D:\Game%202\Minecraft\.minecraft\versions\1.12.2%20Realistic%20RPG%20v1.0.0\mods\journeymap-1.12.2-5.5.9.jar\assets\journeymap\icon\entity
+[13:06:29] [Client thread/INFO] [IconSetFileHandler] Added entity icons from journeymap:icon/entity. Success: false
+[13:06:29] [Client thread/TRACE] [ThemeLoader] Initializing themes ...
+[13:06:29] [Client thread/ERROR] [FileHandler] Couldn't locate icons for flat: D:\Game%202\Minecraft\.minecraft\versions\1.12.2%20Realistic%20RPG%20v1.0.0\mods\journeymap-1.12.2-5.5.9.jar\assets\journeymap\theme\flat
+[13:06:29] [Client thread/INFO] [ThemeLoader] Preloaded theme textures: 0
+[13:06:29] [Client thread/DEBUG] [JourneymapClient] postInitialize EXIT, elapsed§8 count §r1§8 avg §r376.06§8ms§r
+[13:06:36] [JM-VersionCheck-1/ERROR] [VersionCheck$1] Could not check version URL
+org.apache.http.conn.ConnectTimeoutException: Connect to api.cfwidget.com:443 [api.cfwidget.com/167.99.23.151] failed: connect timed out
+	at org.apache.http.impl.conn.HttpClientConnectionOperator.connect(HttpClientConnectionOperator.java:132) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:314) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:363) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:219) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:195) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:86) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:108) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:186) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:106) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:57) ~[httpclient-4.3.3.jar:4.3.3]
+	at journeymap.common.version.VersionCheck$1.run(VersionCheck.java:131) [VersionCheck$1.class:1.12.2-5.5.9]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) [?:1.8.0_162]
+	at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.8.0_162]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_162]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_162]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_162]
+Caused by: java.net.SocketTimeoutException: connect timed out
+	at java.net.TwoStacksPlainSocketImpl.socketConnect(Native Method) ~[?:1.8.0_162]
+	at java.net.AbstractPlainSocketImpl.doConnect(Unknown Source) ~[?:1.8.0_162]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(Unknown Source) ~[?:1.8.0_162]
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source) ~[?:1.8.0_162]
+	at java.net.PlainSocketImpl.connect(Unknown Source) ~[?:1.8.0_162]
+	at java.net.SocksSocketImpl.connect(Unknown Source) ~[?:1.8.0_162]
+	at java.net.Socket.connect(Unknown Source) ~[?:1.8.0_162]
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.connectSocket(SSLConnectionSocketFactory.java:239) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.conn.HttpClientConnectionOperator.connect(HttpClientConnectionOperator.java:117) ~[httpclient-4.3.3.jar:4.3.3]
+	... 16 more
